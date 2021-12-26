@@ -1,0 +1,24 @@
+.bg_image_holder {
+    background-image: url("../Bai1/anh1.jpg");
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.con {
+    background: linear-gradient(to left, #7347c1, #0674ec);
+    width: 100%;
+    height: 500px;
+    opacity: 0.9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.hero-content {}
+
+.hero__content__title {
+    text-align: center;
+}
